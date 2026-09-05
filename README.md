@@ -1,1 +1,1 @@
-# odin-recipes
+In this repository, we're going to create a simple HTML-only website where we will display several recipes in different pages using every elements I have learned throughout The Odin Project's curriculum
